@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm currently working and looking to collaborate on:
+- 🤔 Utilizing large language models to do financial analysis
+- 🔭 EEG / MEG signal processing
+- 🌱 AI and Psychology
+  
 <!--
 **phoeniiix1203/phoeniiix1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
