@@ -1,14 +1,12 @@
 ## Hi there 👋
 
 I'm currently working and looking to collaborate on:
-- 🤔 Utilizing large language models to do financial analysis
 - 🌱 AI and Psychology
+- 🎮 Rogue-like game development
 
-## Welcome to TaskFlow: Streamline Your Day, Boost Your Way 🔥
+## TaskFlow: Streamline Your Day, Boost Your Way 🔥
 
-Alpha Test ↓ 
-
-https://www.tranquiltina.com
+[Try the Alpha](https://www.tranquiltina.com)
 
 **Tasks & Habits**
 
@@ -35,3 +33,9 @@ https://www.tranquiltina.com
 ✏️ PANAS-based mood tracking: Support multi-dimensional mood state analysis
 
 🧭 Built-in professional psychological scales: Safeguard your mental health
+
+## Not a Slot Machine
+
+A rogue-like game inspired by Balatro and Luck Be a Landlord
+
+[Play Now](https://www.game.tranquiltina.com)
