@@ -2,7 +2,6 @@
 
 I'm currently working and looking to collaborate on:
 - 🌱 AI and Psychology
-- 🎮 Rogue-like game development
 
 ## TaskFlow: Streamline Your Day, Boost Your Way 🔥
 
@@ -34,8 +33,3 @@ I'm currently working and looking to collaborate on:
 
 🧭 Built-in professional psychological scales: Safeguard your mental health
 
-## Not a Slot Machine
-
-A rogue-like game inspired by Balatro and Luck Be a Landlord
-
-[Play Now](https://www.game.tranquiltina.com)
